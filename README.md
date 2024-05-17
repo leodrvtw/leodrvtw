@@ -8,8 +8,7 @@
 
 9et543@gmail.com
 
-<--const nome =-->
-'Leonardo Oliveira Lima';
+const nome = 'Leonardo Oliveira Lima';
 const email = '9et543@gmail.com';
 const experiencia = [
   {
@@ -27,15 +26,7 @@ const experiencia = [
 ];
 
 function mostrarCurriculo() {
-  console.log(`Nome: ${nome}`);
-  console.log(`Email: ${email}`);
-  console.log('Experiência:');
-  experiencia.forEach((job) => {
-    console.log(`- Cargo: ${job.cargo}`);
-    console.log(`  Empresa: ${job.empresa}`);
-    console.log(`  Período: ${job.periodo}`);
-    console.log(`  Descrição: ${job.descricao}`);
-  });
+  // Adicione aqui os comandos para exibir as informações, como imprimir no console ou atualizar o DOM em uma página HTML
 }
 
 mostrarCurriculo();
