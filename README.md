@@ -8,25 +8,39 @@
 
 9et543@gmail.com
 
-const nome = 'Leonardo Oliveira Lima';
-const email = '9et543@gmail.com';
-const experiencia = [
-  {
-    cargo: 'Desenvolvedor Full Stack',
-    empresa: 'Empresa XYZ',
-    periodo: 'Janeiro 2020 - Presente',
-    descricao: 'Desenvolvimento de aplicações web utilizando tecnologias como JavaScript, HTML, CSS, Node.js, React, etc.'
-  },
-  {
-    cargo: 'Estagiário de Desenvolvimento',
-    empresa: 'Empresa ABC',
-    periodo: 'Julho 2018 - Dezembro 2019',
-    descricao: 'Participação em projetos de desenvolvimento de software, aprendizado de tecnologias e boas práticas.'
-  }
-];
 
-function mostrarCurriculo() {
-  // Adicione aqui os comandos para exibir as informações, como imprimir no console ou atualizar o DOM em uma página HTML
-}
+# Leonardo Oliveira Lima
 
-mostrarCurriculo();
+📧 9et543@gmail.com
+
+---
+
+## Educação
+
+### cursando ensino medio 2/3
+
+---
+
+## Habilidades Técnicas
+
+- Linguagens de Programação: JavaScript,
+
+---
+
+## Projetos
+
+- **Projeto X:** https://editor.p5js.org/leodrvtw/sketches/o7W2hfAGG
+
+---
+
+## Idiomas
+
+- Português: Nativo
+
+
+---
+
+## Contato
+
+- **LinkedIn:** [linkedin.com/leonardo-oliveira-lima](https://www.linkedin.com/in/leonardo-oliveira-lima/)
+- **GitHub:** [github.com/seu-usuario](https://github.com/seu-usuario)
