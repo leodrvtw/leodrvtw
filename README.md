@@ -1,6 +1,6 @@
-### salve familia 👋
+### OI GENTE👋
 
--meu nome é **leonardo** e estou estudando alura
+-meu nome é **leonardo** e estou estudando Uniaselvi , DIO
 
 -estou me desenvolvendo na analise de dados
 
@@ -11,7 +11,6 @@
 
 # Leonardo Oliveira Lima
 
-📧 9et543@gmail.com
 
 ---
 
