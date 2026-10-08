@@ -2,7 +2,7 @@
 
 -meu nome é **leonardo** e estou estudando alura
 
--estou me desenvolvendo na linguagem de javaScript
+-estou me desenvolvendo na analise de dados
 
 ### entre em contato comigo pelo
 
@@ -17,25 +17,26 @@
 
 ## Educação
 
-### cursando ensino medio 2/3
+### cursando ciências contabeis (2/8)
 
 ---
 
 ## Habilidades Técnicas
 
-- Linguagens de Programação: JavaScript,
+- excel:avançado
 
 ---
 
 ## Projetos
 
-- **Projeto X:** https://editor.p5js.org/leodrvtw/sketches/o7W2hfAGG
+- **projeto invest** [https://editor.p5js.org/leodrvtw/sketches/o7W2hfAGG](https://uniasselvi01-my.sharepoint.com/:x:/g/personal/40214582_aluno_uniasselvi_com_br/IQByd1xd9saDRLP1uxUmBJf1AQD4rjmjb4dzgWjq5-pEbDE?e=IJz6Lk)
 
 ---
 
 ## Idiomas
 
 - Português: Nativo
+- inglês: basico
 
 
 ---
