@@ -9,7 +9,7 @@
 9et543@gmail.com
 
 
-## Educação
+### 📖 Educação
 
 ### cursando ciências contabeis (2/8) (Uniasselvi)
 ### cursos de tecnologia e IA (16 cursos concluído) DIO 
