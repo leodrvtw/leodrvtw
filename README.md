@@ -44,4 +44,3 @@
 
 - **LinkedIn:** [[linkedin.com/leonardo-oliveira-lima](https://www.linkedin.com/in/leonardo-oliveira-lima/)](https://www.linkedin.com/in/leonardo-oliveira-lima-222ba72b1)
   
-- **GitHub:** [github.com/seu-usuario](https://github.com/seu-usuario)
