@@ -1,28 +1,26 @@
-### OI GENTE👋
+### OI 👋
 
--meu nome é **leonardo** e estou estudando Uniaselvi , DIO
+-meu nome é **leonardo** sou estudante da Uniaselvi , DIO
 
 -estou me desenvolvendo na analise de dados
 
-### entre em contato comigo pelo
+### endereço de contato 
 
 9et543@gmail.com
 
 
-# Leonardo Oliveira Lima
-
-
-
-
 ## Educação
 
-### cursando ciências contabeis (2/8)
+### cursando ciências contabeis (2/8) (Uniasselvi)
+### cursos de tecnologia e IA (16 cursos concluído) DIO 
 
 ---
 
 ## Habilidades Técnicas
 
 - excel:avançado
+- Cloude agents : automação
+- criação de Dashboard: intermediário 
 
 ---
 
